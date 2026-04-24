@@ -69,4 +69,8 @@ public class StackTugasMahasiswa12 {
         }
         System.out.println("");
     }
+
+    public int jmlTugas() {
+        return top + 1;
+    }
 } 
